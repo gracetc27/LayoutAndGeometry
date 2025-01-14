@@ -5,7 +5,7 @@ It introduced me to GeometryReader and allowed me to experiment with SwiftUI lay
 - GeometryReader
 - Understanding global and local spacing.
 - Creating custom alignment guides.
-- Using .visualEffect.
+- Using visualEffect().
 - Absolute vs Relative posistioning.
 - Understanding how SwiftUI decides on spacing and layout for its view hierarchies.
 # Contact me
